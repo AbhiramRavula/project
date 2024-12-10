@@ -11,7 +11,8 @@ import { useAuthStore } from './store/authStore';
 
 function App() {
   const { isAuthenticated } = useAuthStore();
-
+ 
+  
   return (
     <Router>
       <div className="min-h-screen bg-gray-100">
