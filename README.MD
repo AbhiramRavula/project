@@ -48,6 +48,9 @@ Make sure you have the following installed:
    npm install
    # or
    yarn install
+
+
+   instal react react-dom
    ```
 
 3. Set up your environment variables (if needed).
@@ -55,4 +58,6 @@ Make sure you have the following installed:
 ### Running the Application
 
 To start the development server, run:
+ ```bash
  npm run dev 
+ ```
