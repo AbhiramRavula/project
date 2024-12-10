@@ -50,7 +50,7 @@ Make sure you have the following installed:
    yarn install
 
 
-   instal react react-dom
+   install react react-dom
    ```
 
 3. Set up your environment variables (if needed).
